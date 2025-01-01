@@ -11,7 +11,7 @@ authorinfo:
 title: 关于本站
 contentinfo: # Top personal information display
   sup: 你好，很高兴认识你👋
-  name: 我是OoooorangeClover # Name
+  name: OoooorangeClover # Name
   title: 18岁，是学生，你也可以叫我五个蛋（） # Introduction
   tip: 猜你想问
   slogan: 我是
@@ -53,7 +53,7 @@ careers:
     - school: 情感经历
       major: 单身
       color: "#357ef5"
-  image: https://7.isyangs.cn/1/65eb2d10ba24d-1.png
+  image: https://cos.ooooo.ink/blog/img/65eb2d10ba24d-1.webp
 personalities:
   tips: 性格
   title: 调停者
@@ -77,12 +77,12 @@ expertise:
   level: MAX
 likes:
   - type: like-technology
-    bg: https://7.isyangs.cn/66/6738b3606d9d3-66.webp
+    bg: https://cos.ooooo.ink/blog/img/6738b3606d9d3-66.webp
     tips: 兴趣偏好
     title: 数码科技
     subtips: 手机、电脑软硬件
   - type: like-music
-    bg: https://7.isyangs.cn/66/6738b36015cb7-66.webp
+    bg: https://cos.ooooo.ink/blog/img/6738b36015cb7-66.webp
     tips: 音乐偏好
     title: OTS、古典、摇滚
     subtips: 一起欣赏更多音乐

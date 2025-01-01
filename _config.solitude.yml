@@ -70,8 +70,8 @@ nav:
 hometop:
   enable: true
   banner:
-    title: OoOo0Oo0oOOo0o
-    url: 这里没有
+    title: OoOo0Oo0oO
+    url: 唐老师，这里没有
     icon:
        HTML: # name
          img: https://i.postimg.cc/vBWVnY8q/html.png # url
