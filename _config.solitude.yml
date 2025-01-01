@@ -47,6 +47,7 @@ nav:
     #   友情链接: /links/ || fas fa-user-group
     #   宝藏博主: javascript:travelling() || fas fa-gift
      关于: /about/
+     音乐馆: /music/
     #   我的装备: /equipment/ || fas fa-laptop
     #   在线工具: /tlink/ || fas fa-toolbox
     #   音乐馆: /music/ || fas fa-music
@@ -294,7 +295,7 @@ post:
     locate: true
     # Number of words
     # 字数
-    wordcount: false
+    wordcount: true
     # uv
     readtime: true
     # pv
@@ -331,8 +332,8 @@ post:
        - telegram
       # - whatsapp
       # - linkedin
-      # - link
-      # - qrcode
+       - link
+       - qrcode
   rss: # /atom.xml
   # Article reading progress
   # 文章封面取色
@@ -698,8 +699,8 @@ highlight:
 lightbox: false
 # warning: Please select any one, but cannot be turned on at the same time.
 # 警告: 请任选其一，但不能同时开启。
-fancybox: false # fancybox
-mediumZoom: false # mediumZoom
+fancybox: true # fancybox
+mediumZoom: true # mediumZoom
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -733,7 +734,7 @@ OpenGraph:
 # 字数统计
 # warning: Please install the hexo-wordcount plugin first.
 # 警告: 请先安装 hexo-wordcount 插件。
-wordcount: false
+wordcount: true
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -741,13 +742,13 @@ wordcount: false
 # Latex formula support
 # Latex 公式支持
 katex:
-  enable: false
+  enable: true
   # Whether to load on each page
   # 是否在每个页面加载
   per_page: false
   # Whether to enable copy formula
   # 是否启用复制公式
-  copytex: false
+  copytex: true
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -890,7 +891,7 @@ search:
 music:
   enable: true
   # 歌单 ID / 单曲 ID
-  id: 5144842535
+  id: 3076085375
   # 服务商：netease / qq / xiami / kugou / baidu
   server: netease
   # 类型：playlist / song

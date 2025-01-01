@@ -1,0 +1,96 @@
+authorinfo:
+  leftTags:
+    - 🗿 有点艺术审美
+    - 🕶 有点喜欢装逼 
+    - 😎 绝不会是文青 
+  rightTags:
+    - 有点喜欢运维 🛜
+    - 有点喜欢摄影 🎥
+    - 还有点喜欢你 😋
+  image: https://q1.qlogo.cn/g?b=qq&nk=2493609731&s=640
+title: 关于本站
+contentinfo: # Top personal information display
+  sup: 你好，很高兴认识你👋
+  name: 我是OoooorangeClover # Name
+  title: 18岁，是学生，你也可以叫我五个蛋（） # Introduction
+  tip: 猜你想问
+  slogan: 我是
+  mask:
+    - Furry控
+    - 不可回收废物
+    - 和电脑结婚
+    - 不知名青年导演
+skills: # Add as needed
+  title: 技能
+  subtitle: 谁TM学前端啊
+  tags:
+    - title: HTML
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/HTML.png  #img 可使用图片
+      icon: fab fa-html5  # icon 可使用 Font Awesome 图标 / img 和 icon 属性不应同时使用
+      color: "#e9572b"
+    - title: Javascript
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
+      color: "#f7cb4f"
+    - title: Kotlin
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/kotlin-logo.svg
+      color: "#ffffff"
+    - title: WebPack
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
+      color: "#2e3a41"
+    - title: Git
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
+      color: "#df5b40"
+    - title: Docker
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
+      color: "#57b6e6"
+    - title: Visual Studio
+      img: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
+      color: "#ffffff"
+careers:
+  title: 经历
+  subtitle: 无限进步
+  items:
+    - school: 情感经历
+      major: 单身
+      color: "#357ef5"
+  image: https://7.isyangs.cn/1/65eb2d10ba24d-1.png
+personalities:
+  tips: 性格
+  title: 调停者
+  color: "#4298b4"
+  type: INFP-A
+  image: https://www.16personalities.com/static/images/personality-types/avatars/email/large/INFP_male.png
+  link: https://www.16personalities.com/
+  linkText: 16Personalities
+  typeLink: https://www.16personalities.com/ch/infp-人格
+  typeName: 调停者
+  myphoto: https://www.helloimg.com/i/2025/01/01/6774c87d2e424.jpg
+motto:
+  title: 座右铭
+  prefix: 功不唐捐，
+  content: 玉汝于成。
+expertise:
+  title: 专长
+  prefix: 吹牛, 摸鱼, 睡觉
+  specialist: 专家
+  content: 学习能力
+  level: MAX
+likes:
+  - type: like-technology
+    bg: https://7.isyangs.cn/66/6738b3606d9d3-66.webp
+    tips: 兴趣偏好
+    title: 数码科技
+    subtips: 手机、电脑软硬件
+  - type: like-music
+    bg: https://7.isyangs.cn/66/6738b36015cb7-66.webp
+    tips: 音乐偏好
+    title: OTS、古典、摇滚
+    subtips: 一起欣赏更多音乐
+    button: false
+    button_text: 更多推荐
+    button_link: /music/
+tenyear:
+  tips: 一年之约
+  title: 高考加油！
+  start: 2024-06-7
+  end: 2025-06-7

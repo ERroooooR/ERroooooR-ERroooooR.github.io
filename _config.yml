@@ -100,10 +100,10 @@ theme: solitude
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/ERroooooR/ERroooooR.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: main
+#deploy:
+#  type: git
+#  repo: https://github.com/ERroooooR/ERroooooR.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+#  branch: main
 
 search:
   path: search.xml
