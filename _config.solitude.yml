@@ -71,7 +71,7 @@ hometop:
   enable: true
   banner:
     title: OoOo0Oo0oO
-    url: 唐老师，这里没有
+    url: 风轻轻吹过半山腰
     icon:
        HTML: # name
          img: https://i.postimg.cc/vBWVnY8q/html.png # url
@@ -133,7 +133,7 @@ aside:
   card:
     style: 0 # 0: default 1: style 1 2: style 2
     author:
-      img: /img/avatar.avif # url
+      img: https://q1.qlogo.cn/g?b=qq&nk=2493609731&s=640 # url
       sticker: # url, 24x24 size
     url: /about/ # link / 点击头像跳转链接
     background: # https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
@@ -222,7 +222,7 @@ aside:
     runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2023-04-20 00:00:00"
+    runtime: "2025-01-1 00:00:00"
   # --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
